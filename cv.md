@@ -1,4 +1,4 @@
-# Junior Frontend Developer
+ï»¿# Junior Frontend Developer
 ## Bolat Ashirbek
 
 #### Contacts
@@ -23,20 +23,20 @@ I want to become a frontend developer
 
 #### Experiense
 ###### Java Developer -> JSC "National Information Technologies"(Astana, Kazakhstan)
-**July 2018 – now**
+**July 2018 - now**
 > Support egov.kz portal
 
 ###### Java Developer ->  E-Commerce Center(Astana, Kazakhstan)
-**Fevuary 2017 – June 2018**
+**Fevuary 2017 - June 2018**
 > Participation in the development of information systems.
 Technology: HTML5, Bootstrap 3, AngularJS 1.5, Java 1.8, JavaEE 7 (JPA, CDI, EJB, JAX-RS/Resteasy), Hibernate, Lombok, Maven, PostgreSQL 10.1, WildFly 12, Redmine, Gitlab.
 
 #### Education
 ###### Eurasian National University by L.N.Gumilyov
-> Master's degree, Computer science (2012 – 2014)
+> Master's degree, Computer science (2012 - 2014)
 
 ######  Eurasian National University by L.N.Gumilyov
-> Bachelor's degree, Information Systems (2007 – 2011)
+> Bachelor's degree, Information Systems (2007 - 2011)
 
 #### English level
 > Elementary - A1
